@@ -1,6 +1,5 @@
 ## <p align="center"> 	:pencil2::books::computer: :standing_woman: Quem sou eu </p>
  <p align="center">                  Oie. Eu sou a Ste :). 👋 </p>
- <p align="center">                   Aqui você encontra um pedacinho de alguém apaixonada por Data Analytics!</p>
 <div align="center">
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/MD01qrT/hi-removebg-preview.png" alt="hi-removebg-preview" border="0"></a>
