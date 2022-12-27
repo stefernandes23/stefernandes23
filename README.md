@@ -6,7 +6,6 @@
 <div align="center">
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/BzGVGVr/ola.png" alt="ola" border="0"></a> </p>
 
- ------------------------------------------
  <p align="center">  Olá. Sou graduada em Gestão da Tecnologia da Informação pela Universidade Católica de Brasília, formada em Análise de Dados pela Resilia Educação e pós-graduanda (MBA) em Big Data e Inteligência Competitiva. Além disso, as minhas experiências na área envolvem a manipulação de grande quantidade de informações e dados por meio de ferramentas excepcionais, como Python (e suas bibliotecas - Numpy, Pandas, Matplotlib), SQL, Excel (Macro e VBA), Power BI e Tableau. Também procuro sempre desenvolver as minhas soft skills por meio de cursos e experiências pessoais e profissionais - como o uso de feedbacks. Por fim, aprendi examinar e interpretar datasets, gerar e apresentar análises que trazem valor para o cliente, manipular grandes volumes de dados, análise e visualização de dados com Power BI e Tableau, modelos de armazenamento de dados com CRUD com SQL, banco de dados relacionais e não-relacionais, além de Python, Pandas, Matplotlib.</p> 
 
 
