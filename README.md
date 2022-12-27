@@ -1,43 +1,19 @@
-## <p align="center"> 	:pencil2::books::computer: :standing_woman: Quem sou eu </p>
- <p align="center">                  Oie. Eu sou a Ste :). 👋 </p>
-<div align="center">
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/MD01qrT/hi-removebg-preview.png" alt="hi-removebg-preview" border="0"></a>
- </p>
+------------------------------------------
+ ### <p align="center">                  Bem-vindx ao meu perfil! <3  </p>
+ #### <p align="center">                  Welcome to my Github profile <3  </p>
  
-  
-  
+<div align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/BzGVGVr/ola.png" alt="ola" border="0"></a> </p>
+
+ ------------------------------------------
+ <p align="center">  Olá. Sou graduada em Gestão da Tecnologia da Informação, formada em Análise de Dados pela Resilia Educação e pós-graduanda (MBA) em Big Data e Inteligência Competitiva. Além disso, as minhas experiências na área envolvem a manipulação de grande quantidade de informações e dados por meio de ferramentas excepcionais, como Python (e suas bibliotecas - Numpy, Pandas, Matplotlib), SQL, Excel (Macro e VBA), Power BI e Tableau. Também procuro sempre desenvolver as minhas soft skills por meio de cursos e experiências pessoais e profissionais - como o uso de feedbacks. Por fim, aprendi examinar e interpretar datasets, gerar e apresentar análises que trazem valor para o cliente, manipular grandes volumes de dados, análise e visualização de dados com Power BI e Tableau, modelos de armazenamento de dados com CRUD com SQL, banco de dados relacionais e não-relacionais, além de Python, Pandas, Matplotlib.</p> 
 
 
-## :chart_with_upwards_trend:🎓:hammer: Ferramentas e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width="40" height="40"/>
+ <p align="center"> Hello. I'm graduated in Information Technology Manager, I have degree in Data Analytics from Resilia Educação and I'm a graduate student (MBA) in Big Data and Competitive Intelligence. In addition, my experiences involve the manipulation of large amounts of information and data through exceptional tools, such as Python (and their libraries - Numpy, Pandas, Matplotlib), SQL, Excel (Macro and VBA), Power BI and Tableau. I also always try to develop my soft skills through courses and personal and professional experiences - such as using feedback. Finally, I learned to examine and interpret datasets, generate and present analyzes that bring value to the client, manipulate large volumes of data, analyze and visualize data with Power BI and Tableau, data storage models with CRUD with SQL, database relational and non-relational, plus Python, Pandas, Matplotlib
+ 
+ ------------------------------------------
 
-## :bulb: :notebook_with_decorative_cover:🎓 Alguns dos meus projetos
-  | I D |  PROJETOS |      
-|--- |--- |
-| 1 | Açaí da Resi |
-| 2 | Quero os dados na minha mesa! |
-| 3 | First Analytics |
-| 4 | Sistema Resilia Data |
-| 5 | Dream-Team-Storytelling |
-
-## 	:pencil2::books::computer: Estou aprendendo
-<img src="https://img.icons8.com/color/2x/power-bi.png" width="40" height="40"/><img src="https://img.icons8.com/color/344/tableau-software.png" width="40" height="40"/>
-
-## 📧 :iphone: :computer: Contatos:
-<a href="https://www.linkedin.com/in/stephaniefernandes23/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephaniefernandes23" height="30" width="40" /></a>
-<a href="https://instagram.com/stefernandes23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@stefernandes23" height="30" width="40" /></a>
-</p>
-<a href = "mailto:stephaniefernandes23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  
-  <div align="center">
-  <a href="https://github.com/stefernandes23">
-   
-   ## :eyes: Resumo
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stefernandes23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefernandes23&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
 
 
 
