@@ -1,8 +1,6 @@
 
 ------------------------------------------
 
- #### <p align="center">                  Welcome to my Github profile <3  </p>
- 
 <div align="center">
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/BzGVGVr/ola.png" alt="ola" border="0"></a> </p>
 
