@@ -1,14 +1,29 @@
-
-------------------------------------------
-
 <div align="center">
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/BzGVGVr/ola.png" alt="ola" border="0"></a> </p>
+  <a href="https://imgbb.com/">
+    <img src="https://i.ibb.co/BzGVGVr/ola.png" alt="ola" border="0">
+  </a>
+</div>
 
- <p align="center">  Olá. Sou graduada em Gestão da Tecnologia da Informação pela Universidade Católica de Brasília, formada em Análise de Dados pela Resilia Educação, pós-graduada (MBA) em Big Data e Inteligência Competitiva e pós-graduanda em Data Science and Artificial Intelligence pela FIAP. Além disso, as minhas experiências na área envolvem a manipulação de grande quantidade de informações e dados por meio de ferramentas, como Python (e suas bibliotecas - Numpy, Pandas, Matplotlib), SQL, Excel (Macro e VBA), Power BI e Tableau. 
-  
+<h1 align="center">👋 Hello!</h1>
 
- ------------------------------------------
+<p align="center">
+  I'm a graduate in Information Technology Management from the Catholic University of Brasília and have completed a Data Analysis program from Resilia Educação. I hold an MBA in Big Data and Competitive Intelligence, and I am currently pursuing a postgraduate degree in Data Science and Artificial Intelligence at FIAP.
+</p>
 
+<p align="center">
+  My experiences in the field involve manipulating large amounts of information and data using various tools, including:
+</p>
 
+<ul>
+  <li>📊 Python (with libraries such as NumPy, Pandas, Matplotlib)</li>
+  <li>💾 SQL</li>
+  <li>📈 Excel (Macro and VBA)</li>
+  <li>🔍 Power BI</li>
+  <li>📊 Tableau</li>
+</ul>
 
+<p align="center">
+  Welcome to my profile! Feel free to explore my projects and share insights.
+</p>
 
+<hr>
